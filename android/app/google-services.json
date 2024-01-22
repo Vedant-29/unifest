@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "807210725806",
+    "project_id": "unifest-27c30",
+    "storage_bucket": "unifest-27c30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807210725806:android:b11d347d06f0a68fcf183f",
+        "android_client_info": {
+          "package_name": "com.mycompany.unifest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807210725806-t10dv48vtal0p4am1nhjjmbsj54icdr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.unifest",
+            "certificate_hash": "2539f073d44c197cd346d5b52addf2519e9c6a39"
+          }
+        },
+        {
+          "client_id": "807210725806-2vrcep3uin2se3hmsidqvn681eoo4slr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnvcBxiMa-wl0hyQLuz_KA3W8RYzc9ITo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807210725806-2vrcep3uin2se3hmsidqvn681eoo4slr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "807210725806-8k57o0jkn23e9iohl7aar36ler09hri3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.unifest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
